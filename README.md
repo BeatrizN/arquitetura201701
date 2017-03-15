@@ -1,2 +1,11 @@
 # arquitetura201701
-Projeto específico para trabalho prático da disciplina Arquitetura de Software
+
+Projeto específico para trabalho prático da disciplina Arquitetura de Software.
+
+# Integrantes
+
+- ANTONIO ARLIS SANTOS DA SILVA - 201515565
+- BEATRIZ NOGUEIRA CARVALHO DA SILVEIRA - 201508732 
+- DAVID MATHEUS SANTOS SOUSA - 201503336
+- KESLLEY LIMA DA SILVA - 201508737 
+- MATHEUS RIBEIRO PIMENTA NUNES - 201503353
