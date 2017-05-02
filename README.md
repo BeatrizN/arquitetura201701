@@ -2,7 +2,6 @@
 
 Projeto específico para trabalho prático da disciplina Arquitetura de Software, que conciste na elaboração/definição de uma proposta de Arquitetura de Software para o [Sistema de Informação em Saúde Bucal (SISB)](https://github.com/kyriosdata/sisb).
 
-[<img src="https://api.travis-ci.org/matheuspiment/arquitetura201701.svg?branch=master">](https://travis-ci.org/matheuspiment/arquitetura201701)
 [![license](https://img.shields.io/github/license/matheuspiment/arquitetura201701.svg)](https://github.com/matheuspiment/arquitetura201701/blob/master/LICENSE)
 
 Documentos disponíveis:
