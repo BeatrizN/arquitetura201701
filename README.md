@@ -6,7 +6,7 @@ Projeto específico para trabalho prático da disciplina Arquitetura de Software
 
 Documentos disponíveis:
 
-* Arquitetura [preliminar](https://docs.google.com/document/d/1wX31X8pFJpG43R3MnWsarm4mxph_8DvxN9ocYt-6OsU/edit?usp=sharing) 
+* Arquitetura [preliminar](https://github.com/matheuspiment/arquitetura201701/blob/master/docs/sisb-arquitetura.md) 
 
 ## Integrantes
 
