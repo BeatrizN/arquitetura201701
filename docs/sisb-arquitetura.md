@@ -22,5 +22,5 @@ suficientemente sólida para dar início à elaboração de uma prova de conceit
 
 1. LUCENA, F. N. **Sistema de Apoio à Elaboração de Parecer**. 
 Disponível em: <https://docs.google.com/document/d/1pHi74guX42sezCPkEQsQVLkYQOy0Q0Ryk7h1OlD1lyU/edit#heading=h.np717zaohglw>. Acesso em 22 março 2017. *Adaptado para definição do formato e conteúdo deste documento*. 
-2. Microsift. Microsoft Application Architecture Guide, 2nd Edition.
-Disponível em: <https://msdn.microsoft.com/en-us/library/ff650706.aspx>
+2. Microsift. **Microsoft Application Architecture Guide, 2nd Edition**.
+Disponível em: <https://msdn.microsoft.com/en-us/library/ff650706.aspx>.
