@@ -16,6 +16,8 @@ suficientemente sólida para dar início à elaboração de uma prova de conceit
 
 ## Visão Modular
 
+![sisb-modulos](https://cloud.githubusercontent.com/assets/14007153/25780925/5cdf8f98-3307-11e7-9504-75843899ebb1.png)
+
 ## Referências
 
 1. LUCENA, F. N. **Sistema de Apoio à Elaboração de Parecer**. 
