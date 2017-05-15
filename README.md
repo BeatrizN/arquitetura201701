@@ -8,6 +8,8 @@ Documentos disponíveis:
 
 * Arquitetura [preliminar](https://github.com/matheuspiment/arquitetura201701/blob/master/docs/sisb-arquitetura.md) 
 
+Enquanto o documento de arquitetura não está concluído, para obter mais detalhes consulte a pasta [docs](https://github.com/matheuspiment/arquitetura201701/tree/master/docs).
+
 ## Integrantes
 
 - [Antonio Arlis Santos da Silva - 201515565](https://github.com/antlisufg)
