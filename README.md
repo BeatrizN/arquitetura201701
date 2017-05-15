@@ -8,7 +8,7 @@ Documentos disponíveis:
 
 * Arquitetura [preliminar](https://github.com/matheuspiment/arquitetura201701/blob/master/docs/sisb-arquitetura.md) 
 
-Enquanto o documento de arquitetura não está concluído, para obter mais detalhes consulte a pasta [docs](https://github.com/matheuspiment/arquitetura201701/tree/master/docs).
+Enquanto o documento de arquitetura não está concluído, para obter mais detalhes consulte a pasta [docs](https://github.com/matheuspiment/arquitetura201701/tree/master/docs). É importante ressaltar que o documento de arquitetura será confeccionado/atualizado a medida qeu os diagramas ou artefatos forem sendo verificados e validados.
 
 ## Integrantes
 
