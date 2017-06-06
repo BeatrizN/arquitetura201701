@@ -1,5 +1,7 @@
 # arquitetura201701
 
+<img src="https://github.com/kyriosdata/sisb/blob/master/info/logo/logo-642x380.png" alt="sisb-logo"  width="200"/>
+
 Projeto específico para trabalho prático da disciplina Arquitetura de Software, que conciste na elaboração/definição de uma proposta de Arquitetura de Software para o [Sistema de Informação em Saúde Bucal (SISB)](https://github.com/kyriosdata/sisb).
 
 [![license](https://img.shields.io/github/license/matheuspiment/arquitetura201701.svg)](https://github.com/matheuspiment/arquitetura201701/blob/master/LICENSE)
