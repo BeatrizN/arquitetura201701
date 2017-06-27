@@ -10,7 +10,7 @@ Projeto específico para trabalho prático da disciplina Arquitetura de Software
 
 Documentos disponíveis:
 
-* Arquitetura [preliminar](https://github.com/matheuspiment/arquitetura201701/blob/master/docs/sisb-arquitetura.pdf) 
+* Arquitetura [preliminar](https://github.com/matheuspiment/arquitetura201701/blob/master/docs/sisb-arquitetura.pdf) - Os diagramas presentes no documento também podem ser visualizados na pasta [diagramas](https://github.com/matheuspiment/arquitetura201701/tree/master/docs/diagramas). 
 
 Enquanto o documento de arquitetura não está concluído para obter mais detalhes consulte a pasta [docs](https://github.com/matheuspiment/arquitetura201701/tree/master/docs). É importante ressaltar que o documento de arquitetura será confeccionado/atualizado a medida qeu os diagramas ou artefatos forem sendo verificados e validados.
 
